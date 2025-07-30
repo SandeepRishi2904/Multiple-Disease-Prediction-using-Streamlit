@@ -1,0 +1,1 @@
+streamlit run "D:\Sandeep Rishi J B\Hackathon\Techathon\Multiple Disease Prediction System\multiple disease pred.py"
